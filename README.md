@@ -6,7 +6,7 @@
 
 Templates from Udacity project [Capstone Proposal](https://github.com/udacity/machine-learning/tree/master/projects/capstone).
 
-BATtle of the Attack Detection ALgorithms (BATADAL) competition [website](https://www.batadal.net/).
+BATtle of the Attack Detection ALgorithms (BATADAL) [competition website](https://www.batadal.net/).
 
 ### Implementation
 
